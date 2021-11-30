@@ -1,5 +1,6 @@
 # UNFusion: A unified multi-scale densely connected network for infrared and visible image fusion
 Zhishe Wang, Junyao Wang, Yuanyuan Wu, Jiawei Xu, Xiaoqin Zhang
+
 [paper](https://ieeexplore.ieee.org/document/9528393/)  
 
 ## Platform
